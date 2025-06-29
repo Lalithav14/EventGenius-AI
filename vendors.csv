@@ -1,0 +1,11 @@
+name,type,city,cost,rating,vibe
+EliteCaterers,catering,Chennai,20000,4.8,Luxury
+BudgetBites,catering,Chennai,8000,4.2,Minimal
+FloraDecor,decor,Bangalore,15000,4.5,Cultural
+SnapStudio,photography,Mumbai,12000,4.6,Modern
+LightNShine,lighting,Delhi,10000,4.3,Minimal
+GrandVenue,venue,Chennai,40000,4.7,Luxury
+DecoCraft,decor,Chennai,12000,4.1,Cultural
+FotoFocus,photography,Delhi,15000,4.9,Modern
+WowCakes,catering,Bangalore,10000,4.4,Minimal
+VenueVerse,venue,Bangalore,35000,4.6,Luxury
