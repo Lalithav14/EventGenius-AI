@@ -13,7 +13,7 @@ with st.sidebar:
     budget = st.slider("Budget (INR)", 10000, 200000, 50000, step=5000)
     vibe = st.selectbox("Preferred Vibe", ["Luxury", "Minimal", "Cultural", "Modern"])
 
-vendors = load_vendors()
+vendors = load_vendors(data_file)
 results = recommend_vendors(vendors, event_type, budget, city, vibe)
 
 st.subheader("✨ Recommended Vendors")
