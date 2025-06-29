@@ -1,3 +1,4 @@
+import os
 import streamlit as st
 from planner import load_vendors, recommend_vendors, suggest_timeline
 
